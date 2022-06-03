@@ -1,7 +1,7 @@
 ﻿# Javascript-clock
 
 
-Simple javascript clock with minimal design.
+A simple javascript clock with minimal design in plain JavaSript.
 
 <br>
 
